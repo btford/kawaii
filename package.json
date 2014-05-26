@@ -4,7 +4,7 @@
   "description": "for determining if the contents of a string are cute",
   "main": "kawaii.js",
   "scripts": {
-    "test": "./node_modules/jasmine-node/bin/jasmine-node spec"
+    "test": "jasmine-node spec"
   },
   "repository": {
     "type": "git",
