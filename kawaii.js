@@ -1,11 +1,16 @@
 var thingsThatAreKawaii = [
   /^baby/,
   /kitten/,
-  /brian ford/
+  /brian ford/,
+  /^pony/,
+  /^unicorn/,
+  /sindre sorhus/,
+  /kawaii/
 ];
 
 var thingsThatAreNotKawaii = [
-  /spider/
+  /spider/,
+  /doorknob$/
 ];
 
 module.exports = function (thing) {
