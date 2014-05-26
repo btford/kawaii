@@ -1,5 +1,7 @@
 # kawaii
 
+node module for determining if the contents of a string are cute
+
 
 ## Install
 
