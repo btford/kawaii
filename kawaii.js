@@ -5,7 +5,7 @@ var thingsThatAreKawaii = [
 ];
 
 var thingsThatAreNotKawaii = [
-  /spiders/
+  /spider/
 ];
 
 module.exports = function (thing) {
