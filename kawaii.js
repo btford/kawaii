@@ -1,4 +1,5 @@
 var thingsThatAreKawaii = [
+  /alison brie/,
   /^baby/,
   /kitten/,
   /brian ford/
