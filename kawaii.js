@@ -1,7 +1,9 @@
 var thingsThatAreKawaii = [
   /^baby/,
   /kitten/,
-  /brian ford/
+  /brian ford/,
+  /^me$/,
+  /^node(\.js)?/i
 ];
 
 var thingsThatAreNotKawaii = [
