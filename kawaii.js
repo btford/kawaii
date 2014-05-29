@@ -1,7 +1,7 @@
 var thingsThatAreKawaii = [
   /^baby/,
   /kitten/,
-  /brian ford/,
+  /brian[ t]ford/,
   /^pony/,
   /^unicorn/,
   /sindre sorhus/,
