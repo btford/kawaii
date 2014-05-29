@@ -1,6 +1,6 @@
 {
   "name": "kawaii",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "for determining if the contents of a string are cute",
   "main": "kawaii.js",
   "scripts": {
