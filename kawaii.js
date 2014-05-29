@@ -10,7 +10,9 @@ var thingsThatAreKawaii = [
 
 var thingsThatAreNotKawaii = [
   /spider/,
-  /doorknob$/
+  /doorknob$/,
+  / cancer$/,
+  / aids$/
 ];
 
 module.exports = function (thing) {
