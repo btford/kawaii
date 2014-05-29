@@ -12,4 +12,8 @@ describe('kawaii', function () {
   it("says spiders aren't cute", function () {
     expect(kawaii('spiders')).toBe(false);
   });
+
+  it("says unicorns are cute", function () {
+    expect(kawaii('unicorns')).toBe(true);
+  });
 });
