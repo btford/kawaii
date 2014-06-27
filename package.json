@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jasmine-node spec"
   },
+  "bin": {
+    "kawaii": "./bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/btford/kawaii.git"
